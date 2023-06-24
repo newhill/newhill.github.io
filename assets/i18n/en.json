@@ -1,0 +1,205 @@
+{
+    "Header.Item1": "About me",
+    "Header.Item2": "Experience",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Awards",
+    "Header.Item5": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "Hassan Aahil - Full Stack Engineer.pdf",
+    "Banner.Pretitle": "Hi, I'm",
+    "Banner.Description": "<span class='underline'>Experienced full stack software engineer</span> focused on building robust <span class='underline'>enterprise solutions</span> and crafting accessible products for the <span class='underline'>mobile</span> and <span class='underline'>web</span>. Currently pursuing <span class='underline'>ML/AI</span>. In an infinite loop of <span class='underline'>learning & building.</span>",
+    "Banner.ActionBtn": "Get in touch",
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "During my dynamic career spanning over <span class='underline'>8 years</span>, I've contributed significantly to numerous high profile MNCs, <span class='underline'>leading</span> cross-functional teams and operating across various technical roles. I started with <span class='underline'>enterprise data warehousing</span> and <span class='underline'>data quality analysis</span>, and more recently transitioned into a proficient <span class='underline'>full stack engineer</span> for <span class='underline'>mobile</span>, <span class='underline'>web</span> and <span class='underline'>enterprise platforms</span>. I take pride in <span class='underline'>enhancing workflows</span> via effective CI/CD strategies, implementing system improvements, and executing <span class='underline'>value-adding project ideas</span>.",
+        "I'm comfortable with the following technologies:"
+    ],
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [{
+            "Tab": "Core Systems Integration",
+            "ShortName": "CSI",
+            "Title": "Full-stack Developer",
+            "Date": "2022 - Present",
+            "Description": [
+                "Utilized a diverse tech stack including Spring framework, JSP, HTML, SCSS, jQuery, Liferay DXP and Elastic Search to deliver an Enterprise Platform for Central Bank of Malaysia.",
+                "Led frontend integration with backend, troubleshooting data definitions and quality assurance fixes.",
+                "Designed report generation and visualization charts via 3rd party integrations, executing custom Boolean queries and index handling using Elasticsearch.",
+                "Handled Application Security Test fixes, including vulnerable library upgrades, code maintenance, and backend deployment.",
+                "Revamped an eKYC onboarding website with a robust camera module, supporting both identification and identity verification using Jumio API."
+            ]
+        },
+        {
+            "Tab": "DHL IT Services",
+            "ShortName": "DHL",
+            "Title": "Software Engineer",
+            "Date": "2021 - 2022",
+            "Description": [
+                "Integral member of the core dev team for the DHL Express Mobile App, responsible for continuous fixes, enhancements, and the addition of new features on both frontend and backend.",
+                "Key accomplishments: Managed deployments to Playstore and Appstore, spearheaded Ionic 3 to 5 frontend mobile tech refresh, worked on a new feature release for Shipment module, integrated with 3rd party SDKs for Adobe Analytics and Medallia Customer Experience.",
+                "Worked on Admin Console upgrades built on Angular frontend, NodeJS backend, MongoDB, which included user access management, configuration management, visual dashboards, and integration with Splunk."
+            ]
+        },
+        {
+            "Tab": "Supply Network Agency",
+            "ShortName": "SNA",
+            "Title": "Full Stack Web Developer",
+            "Date": "2019 - 2020",
+            "Description": [
+                "Successfully revamped and redesigned Puffergroup, website, originally built on AppGini.",
+                "Led database redesign (MariaDB), core back-end development and optimization in PHP, Linux back-end server setup, and API function creation using Ajax. Additionally, responsible for UI/UX fixes and creation of Bash scripts for metrics collection.",
+                "Introduced significant features such as web notifications, Single sign-on, Social interaction between colleagues, Automated metric collection and reporting feature, and easy file upload drag-and-drop feature, among others.",
+                "Responsible for the initial research and study of existing solutions, debugging of existing problems faced by the Client, and complete documentation of new solutions."
+            ]
+        },
+        {
+            "Tab": "DXC Technology",
+            "ShortName": "DXC",
+            "Title": "Data Quality Engineer",
+            "Date": "2019 - 2021",
+            "Description": [
+                "Worked in a critical role as a Data Quality Analyst, tackling client issues related to data sourced into and reported from the Enterprise Data Warehouse.",
+                "Regularly engaged with finance, sales, marketing, and supply chain end users to monitor and maintain the quality of data feeds, aggregation logic, and reporting layer.",
+                "Responsible for correcting and fixing duplication, incorrect transformation, and missing information via logic tracing, implementing changes in ETL dependencies, and creating or modifying SQL patch scripts."
+            ]
+        },
+        {
+            "Tab": "DXC Technology",
+            "ShortName": "DXC",
+            "Title": "Software Developer",
+            "Date": "2018 - 2019",
+            "Description": [
+                "Served in the R&D team for 'SeaQuest' - an in-house Enterprise Database Warehouse solution owned by Hewlett-Packard Enterprise.",
+                "Took on the team lead role for the Malaysia team, focusing on developing new and enhancing existing test suites for HP Database Management system.",
+                "Handled a variety of responsibilities including bug fixing, test case design, client software building and releasing, and L4 support.",
+                "Used key technologies such as Unix/Linux Shell & PERL-scripting for individual test and test-suite creation, Jenkins, Electric Commander, HP UFT & ALM for test-automation, and Ionic framework for a mobile app POC for real-time metrics relevant to DB Admins."
+            ]
+        },
+        {
+            "Tab": "Maslaha Tech",
+            "ShortName": "MT",
+            "Title": "Full Stack Developer",
+            "Date": "2018",
+            "Description": [
+                "Developed and released a hybrid mobile app called Digital Masjid.",
+                "Built on Ionic, NodeJS, Express and MongoDB.",
+                "Key features include events subscription and management, automated push notifications using Firebase, rating system, payment gateway for donations using SenangPay, search feature, Google Maps integration, distance calculation based on geo-location for event attendance, points collection & redeem system and marketplace, account registration and administration"
+            ]
+        },
+        {
+            "Tab": "Hewlett Packard Enterprise",
+            "ShortName": "HPE",
+            "Title": "Database Admin",
+            "Date": "2015 - 2017",
+            "Description": [
+                "Integral part of a team managing and optimizing queries running on the Enterprise Data Warehouse database.",
+                "Conducted CRUD operations, database maintenance, identified long running queries, generated explain plans, and executed data extraction and documentation.",
+                "Developed new queries and automations for operational and work efficiency improvement.",
+                "Worked with a diverse technology stack including HP-UX / Linux Scripting, Java, SeaQuest, Oracle, and ASP.NET."
+            ]
+        },
+        {
+            "Tab": "Hewlett Packard",
+            "ShortName": "HP",
+            "Title": "UAM Global Admin",
+            "Date": "2015",
+            "Description": [
+                "Entrusted with the responsibility of managing Enterprise user access for 50+ in-house applications within the company/'s User Access Management Platform.",
+                "Key responsibilities: creating security profiles, enabling security protocols on the access approval / revoke processes, and developing documentation on databases."
+            ]
+        }
+
+    ],
+    "FeatureProjects.Title": "Projects I have worked on",
+    "FeatureProjects.Projects": [{
+            "Company": "Bank Negara Malaysia",
+            "Title": "Enterprise Platform",
+            "Description": "A <span class='underline'>one-stop SaaS enterprise platform</span> streamlining workflows, service desk, publications, submissions, and access management.",
+            "imgs": [
+                "assets/images/projects/kijangnet.png"
+            ],
+            "demoLink": "https://www.bnm.gov.my/",
+            "Technologies": [
+                "Liferay DXP",
+                "Spring",
+                "JSP",
+                "HTML5",
+                "jQuery",
+                "Elastic Search"
+            ]
+        },
+        {
+            "Company": "DHL IT Services",
+            "Title": "DHL Express Mobile App",
+            "Description": "A <span class='underline'>customer-centric mobile app for DHL</span>, featuring shipment tracking, delivery management, schedule pickup or drop-off, service point location, shipping rates.",
+            "imgs": [
+                "assets/images/projects/dhlexpressmobile.png"
+            ],
+            "demoLink": "https://apps.apple.com/my/app/dhl-express-mobile-app/id1426463073",
+            "Technologies": [
+                "Angular",
+                "Ionic",
+                "Swift",
+                "NodeJS"
+            ]
+        },
+        {
+            "Company": "Supply Network Agency",
+            "Title": "Puffergroup Website",
+            "Description": "An <span class='underline'>infrastructure solution for virtual deployment</span> of enterprise systematic transformation.",
+            "imgs": [
+                "assets/images/projects/puffergroup.png"
+            ],
+            "demoLink": "https://puffergroup.com/",
+            "Technologies": [
+                "PHP",
+                "MariaDB",
+                "Material"
+            ]
+        },
+        {
+            "Company": "Maslaha Tech",
+            "Title": "Digital Masjid",
+            "Description": "An interactive hub for <span class='underline'>Muslims to Mosque engagement</span> featuring events booking and management, donation, and rating.",
+            "imgs": [
+                "assets/images/projects/digitalmasjid.png"
+            ],
+            "demoLink": "https://m.apkpure.com/digital-masjid/io.ionic.digitalmasjid",
+            "Technologies": [
+                "Ionic",
+                "NodeJS",
+                "MongoDB"
+            ]
+        }
+    ],
+    "OtherProjects.Title": "Awards",
+    "OtherProjects.Projects": [{
+            "Title": "Winner of Internship Mini-Project Contest | Hewlett-Packard Malaysia (2015)",
+            "Description": "Won the Best Project Award for the POC developed for Finance IT Incident tickets root cause analysis along with KendoUI integration for analytics",
+            "Technologies": [
+                "MEAN stack",
+                "KendoUI"
+            ]
+        },
+        {
+            "Title": "Winner of Final Year Project Exhibition | International Islamic University Malaysia (2014)",
+            "Description": "Awarded the Best Project for working prototype titled \"User-based Face Recognition\". Enlists crowd sourcing to assist authorities and public in finding missing people.",
+            "Technologies": [
+                "Android",
+                "OpenCV"
+            ]
+        },
+        {
+            "Title": "Top 16 Projects | D-Code Startup Bootcamp Malaysia (2013)",
+            "Description": "Developed and published Instant GPS Coordinates, a Google Chrome Extension that lets you get Geo Coordinates of any location from Google Maps. Currently unlisted since 2022.",
+            "demoLink": "https://extpose.com/ext/51262",
+            "Technologies": [
+                "Chrome Extension",
+                "Google Maps API"
+            ]
+        }
+    ],
+    "Contact.Pretitle": "Do you have a project in mind?",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "My inbox is always open for new and exciting opportunities. Write me, and I will reply as soon as I see your message.",
+    "Contact.Btn": "Say Hello"
+}
