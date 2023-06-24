@@ -7,17 +7,19 @@
     "Header.cvBtn": "Resume",
     "Header.cvName": "Hassan Aahil - Full Stack Engineer.pdf",
     "Banner.Pretitle": "Hi, I'm",
-    "Banner.Description": "<span class='underline'>Experienced full stack software engineer</span> focused on building robust <span class='underline'>enterprise solutions</span> and crafting accessible products for the <span class='underline'>mobile</span> and <span class='underline'>web</span>. Currently pursuing <span class='underline'>ML/AI</span>. In an infinite loop of <span class='underline'>learning & building.</span>",
+    "Banner.Description": "Experienced full stack software engineer focused on building robust enterprise solutions and crafting accessible products for the mobile and web. Perpertually engaged in learning and building, currently pursuing ML/AI.",
     "Banner.ActionBtn": "Get in touch",
     "AboutMe.Title": "About me",
     "AboutMe.Paragraphs": [
-        "During my dynamic career spanning over <span class='underline'>8 years</span>, I've contributed significantly to numerous high profile MNCs, <span class='underline'>leading</span> cross-functional teams and operating across various technical roles. I started with <span class='underline'>enterprise data warehousing</span> and <span class='underline'>data quality analysis</span>, and more recently transitioned into a proficient <span class='underline'>full stack engineer</span> for <span class='underline'>mobile</span>, <span class='underline'>web</span> and <span class='underline'>enterprise platforms</span>. I take pride in <span class='underline'>enhancing workflows</span> via effective CI/CD strategies, implementing system improvements, and executing <span class='underline'>value-adding project ideas</span>.",
-        "I'm comfortable with the following technologies:"
+        "Hey there! I'm a tech enthusiast with over 8 adventurous years on my timeline, starting in the world of enterprise data warehousing and data quality analysis. In the blink of an eye, it's been almost a decade and I've been privileged enough to work with industry leaders such as <a class='underline' href='https://www.hp.com/' rel='noopener noreferrer nofollow' target='_blank'>HP</a>, <a class='underline' href='https://www.hpe.com/' rel='noopener noreferrer nofollow' target='_blank'>HPE</a>, <a class='underline' href='https://dxc.com/' rel='noopener noreferrer nofollow' target='_blank'>DXC</a>, and <a class='underline' href='https://www.dhl.com/' rel='noopener noreferrer nofollow' target='_blank'>DHL</a>.",
+        "I've dipped my toes into various roles, led diverse teams, and have evolved into a proficient full stack engineer for mobile, web, and enterprise platforms. I find joy in streamlining workflows through effective CI/CD strategies, breathing new life into systems via improvements, and transforming project ideas into value-adding realities.",
+        "Here are a handful of technologies I've been working with recently:"
     ],
     "Experience.Title": "Experience",
     "Experience.Jobs": [{
             "Tab": "Core Systems Integration",
             "ShortName": "CSI",
+            "Url": "https://incore.com.my/group-structure/#:~:text=Core%20Systems%20Integration%20Sdn%20Bhd",
             "Title": "Full-stack Developer",
             "Date": "2022 - Present",
             "Description": [
@@ -31,6 +33,7 @@
         {
             "Tab": "DHL IT Services",
             "ShortName": "DHL",
+            "Url": "https://www.dhl.com/",
             "Title": "Software Engineer",
             "Date": "2021 - 2022",
             "Description": [
@@ -42,10 +45,11 @@
         {
             "Tab": "Supply Network Agency",
             "ShortName": "SNA",
+            "Url": "",
             "Title": "Full Stack Web Developer",
             "Date": "2019 - 2020",
             "Description": [
-                "Successfully revamped and redesigned Puffergroup, website, originally built on AppGini.",
+                "Successfully revamped and redesigned Puffergroup website, originally built on AppGini.",
                 "Led database redesign (MariaDB), core back-end development and optimization in PHP, Linux back-end server setup, and API function creation using Ajax. Additionally, responsible for UI/UX fixes and creation of Bash scripts for metrics collection.",
                 "Introduced significant features such as web notifications, Single sign-on, Social interaction between colleagues, Automated metric collection and reporting feature, and easy file upload drag-and-drop feature, among others.",
                 "Responsible for the initial research and study of existing solutions, debugging of existing problems faced by the Client, and complete documentation of new solutions."
@@ -54,6 +58,7 @@
         {
             "Tab": "DXC Technology",
             "ShortName": "DXC",
+            "Url": "https://dxc.com/",
             "Title": "Data Quality Engineer",
             "Date": "2019 - 2021",
             "Description": [
@@ -65,6 +70,7 @@
         {
             "Tab": "DXC Technology",
             "ShortName": "DXC",
+            "Url": "https://dxc.com/",
             "Title": "Software Developer",
             "Date": "2018 - 2019",
             "Description": [
@@ -77,6 +83,7 @@
         {
             "Tab": "Maslaha Tech",
             "ShortName": "MT",
+            "Url": "",
             "Title": "Full Stack Developer",
             "Date": "2018",
             "Description": [
@@ -88,6 +95,7 @@
         {
             "Tab": "Hewlett Packard Enterprise",
             "ShortName": "HPE",
+            "Url": "https://www.hpe.com/",
             "Title": "Database Admin",
             "Date": "2015 - 2017",
             "Description": [
@@ -100,6 +108,7 @@
         {
             "Tab": "Hewlett Packard",
             "ShortName": "HP",
+            "Url": "https://www.hp.com/",
             "Title": "UAM Global Admin",
             "Date": "2015",
             "Description": [
@@ -113,7 +122,7 @@
     "FeatureProjects.Projects": [{
             "Company": "Bank Negara Malaysia",
             "Title": "Enterprise Platform",
-            "Description": "A <span class='underline'>one-stop SaaS</span> <span class='underline'>enterprise platform</span> streamlining workflows, service desk, publications, submissions, and access management.",
+            "Description": "A one-stop SaaS enterprise platform streamlining workflows, service desk, publications, submissions, and access management.",
             "imgs": [
                 "assets/images/projects/kijangnet.png"
             ],
@@ -130,7 +139,7 @@
         {
             "Company": "DHL IT Services",
             "Title": "DHL Express Mobile App",
-            "Description": "A <span class='underline'>customer-centric</span> <span class='underline'>mobile app</span> for DHL, featuring shipment tracking, delivery management, schedule pickup or drop-off, service point location, shipping rates.",
+            "Description": "A customer-centric mobile app for DHL, featuring shipment tracking, delivery management, schedule pickup or drop-off, service point location, shipping rates.",
             "imgs": [
                 "assets/images/projects/dhlexpressmobile.png"
             ],
@@ -145,7 +154,7 @@
         {
             "Company": "Supply Network Agency",
             "Title": "Puffergroup Website",
-            "Description": "An <span class='underline'>infrastructure solution</span> for <span class='underline'>virtual</span> <span class='underline'>deployment</span> of enterprise systematic transformation.",
+            "Description": "An infrastructure solution for virtual deployment of enterprise systematic transformation.",
             "imgs": [
                 "assets/images/projects/puffergroup.png"
             ],
@@ -159,7 +168,7 @@
         {
             "Company": "Maslaha Tech",
             "Title": "Digital Masjid",
-            "Description": "An interactive hub for <span class='underline'>Muslims to Mosque</span> <span class='underline'>engagement</span> featuring events booking and management, donation, and rating.",
+            "Description": "An interactive hub for Muslims to Mosque engagement featuring events booking and management, donation, and rating.",
             "imgs": [
                 "assets/images/projects/digitalmasjid.png"
             ],
