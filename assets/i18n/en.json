@@ -109,11 +109,11 @@
         }
 
     ],
-    "FeatureProjects.Title": "Projects I have worked on",
+    "FeatureProjects.Title": "Selected Projects",
     "FeatureProjects.Projects": [{
             "Company": "Bank Negara Malaysia",
             "Title": "Enterprise Platform",
-            "Description": "A <span class='underline'>one-stop SaaS enterprise platform</span> streamlining workflows, service desk, publications, submissions, and access management.",
+            "Description": "A <span class='underline'>one-stop SaaS</span> <span class='underline'>enterprise platform</span> streamlining workflows, service desk, publications, submissions, and access management.",
             "imgs": [
                 "assets/images/projects/kijangnet.png"
             ],
@@ -130,7 +130,7 @@
         {
             "Company": "DHL IT Services",
             "Title": "DHL Express Mobile App",
-            "Description": "A <span class='underline'>customer-centric mobile app for DHL</span>, featuring shipment tracking, delivery management, schedule pickup or drop-off, service point location, shipping rates.",
+            "Description": "A <span class='underline'>customer-centric</span> <span class='underline'>mobile app</span> for DHL, featuring shipment tracking, delivery management, schedule pickup or drop-off, service point location, shipping rates.",
             "imgs": [
                 "assets/images/projects/dhlexpressmobile.png"
             ],
@@ -145,7 +145,7 @@
         {
             "Company": "Supply Network Agency",
             "Title": "Puffergroup Website",
-            "Description": "An <span class='underline'>infrastructure solution for virtual deployment</span> of enterprise systematic transformation.",
+            "Description": "An <span class='underline'>infrastructure solution</span> for <span class='underline'>virtual</span> <span class='underline'>deployment</span> of enterprise systematic transformation.",
             "imgs": [
                 "assets/images/projects/puffergroup.png"
             ],
@@ -159,7 +159,7 @@
         {
             "Company": "Maslaha Tech",
             "Title": "Digital Masjid",
-            "Description": "An interactive hub for <span class='underline'>Muslims to Mosque engagement</span> featuring events booking and management, donation, and rating.",
+            "Description": "An interactive hub for <span class='underline'>Muslims to Mosque</span> <span class='underline'>engagement</span> featuring events booking and management, donation, and rating.",
             "imgs": [
                 "assets/images/projects/digitalmasjid.png"
             ],
